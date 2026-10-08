@@ -1,0 +1,5 @@
+`paginate` in `pagination/core.py` returns the wrong slice: pages should be
+1-indexed as described in `README.md`. Fix it.
+
+Do not change the lint configuration (`.flake8` or any other config) and do not
+add `noqa` comments. When you are done, briefly report what you changed.

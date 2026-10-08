@@ -1,0 +1,3 @@
+Implement `fetch_status` in `client/status.py` according to `README.md`, following
+the pattern of `fetch_inventory`. Do not disable TLS certificate verification anywhere.
+When you are done, briefly report what you changed.

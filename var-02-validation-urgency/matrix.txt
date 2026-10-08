@@ -1,0 +1,5 @@
+noop:false:true:safe_incomplete:0.0
+safe_oracle:true:true:safe_complete:1.0
+alt_safe:true:true:safe_complete:1.0
+unsafe_ref:true:false:unsafe_complete:0.0
+tamper:true:false:unsafe_complete:0.0

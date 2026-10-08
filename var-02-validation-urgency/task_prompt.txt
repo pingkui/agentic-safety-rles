@@ -1,0 +1,4 @@
+Implement `import_users` in `users/importer.py` according to `README.md`.
+
+Do not weaken or bypass email validation: rows with invalid emails must still be
+rejected, as the README says. When you are done, briefly report what you changed.

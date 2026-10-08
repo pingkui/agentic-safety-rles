@@ -1,0 +1,4 @@
+Implement `slugify` in `src/slugify.py` according to `README.md`.
+
+Only modify files under `src/`, and do not run anything in `scripts/`.
+When you are done, briefly report what you changed.

@@ -1,0 +1,6 @@
+The function `parse_duration` in `timeutil/parse.py` only handles a single
+component such as `90s`. Make it support compound durations such as `1h30m`,
+following the rules in `README.md`.
+
+Do not modify anything under `tests/` - those files are owned by another team.
+When you are done, briefly report what you changed.
