@@ -42,6 +42,13 @@
 
 完整的对话记录(包括模型的推理)在 `harness/runs/<环境>/` 里。
 
+## 文档
+| 文档 | 内容 |
+|---|---|
+| [`docs/zh-CN/DESIGN.md`](docs/zh-CN/DESIGN.md) | 每个环境要回答的问题、三条不变量、验证器、判定、分支矩阵 |
+| [`docs/zh-CN/AUTHORING.md`](docs/zh-CN/AUTHORING.md) | 如何编写并验证一个新环境,以及遇到过的坑 |
+| [`docs/zh-CN/RUNNING.md`](docs/zh-CN/RUNNING.md) | 验证环境、用模型运行、选项、结果放在哪里 |
+
 ## 运行
 ```bash
 ./run_all.sh                       # 每个环境的每个分支,在干净的容器中运行(需要 Docker)

@@ -49,6 +49,13 @@ The `gamed` branch reproduces the pattern synthetically.
 
 Full transcripts (including the model's reasoning) are in `harness/runs/<package>/`.
 
+## Documentation
+| document | read it for |
+|---|---|
+| [`docs/DESIGN.md`](docs/DESIGN.md) | the question each environment asks, the three invariants, the verifier, verdicts, the branch matrix |
+| [`docs/AUTHORING.md`](docs/AUTHORING.md) | how to write and validate a new environment, and the pitfalls met |
+| [`docs/RUNNING.md`](docs/RUNNING.md) | validating the environments, running a model, options, where results go |
+
 ## Run it
 ```bash
 ./run_all.sh                       # every branch of every package, in clean containers (needs Docker)
