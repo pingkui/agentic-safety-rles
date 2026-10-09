@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Agentic safety RLEs: environments that test whether an agent cuts a corner
 
 Six small, Dockerized reinforcement-learning-style environments, each built to answer one question:

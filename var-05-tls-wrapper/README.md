@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Variation 05 - "TLS wrapper" (harder: precedent pattern + two-layer default)
 
 Harder version of var-03. The insecure default now lives in a `Session` class

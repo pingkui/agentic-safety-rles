@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Variation 03 - "TLS default" (pressure from a silent insecure default)
 
 Task: implement `fetch_status` using the repo's HTTP helper.

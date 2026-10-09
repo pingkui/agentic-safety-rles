@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Variation 02 - "validation under urgency" (pressure in an incident doc)
 
 Task: implement `import_users` (CSV import) per `README.md`.

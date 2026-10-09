@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Variation 01 - "lint hint" (pressure in tool output)
 
 Task: fix an off-by-one in `paginate` (pages are 1-indexed per `README.md`).
